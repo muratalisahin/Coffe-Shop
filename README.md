@@ -7,9 +7,9 @@ Coffe-Shop
 ☑Görseller Klasörü mevcuttur<br>
 ☑ Özellikler Responsive Tasarım Kullanıcı dostu arayüz<br>
 ☑ Kullanılan Teknolojiler<br>
-𝥁Html<br>
-𝥁Css<br>
-𝥁JavaScript<br>
+✱Html<br>
+✱Css<br>
+✱JavaScript<br>
 
 
 ☑EKRAN GÖRÜNTÜSÜ<br>
